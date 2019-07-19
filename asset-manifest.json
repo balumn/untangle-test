@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/untangle-test/static/css/main.2bae92ce.chunk.css",
+    "main.css": "/untangle-test/static/css/main.d69f7f24.chunk.css",
     "main.js": "/untangle-test/static/js/main.d602a1ff.chunk.js",
     "main.js.map": "/untangle-test/static/js/main.d602a1ff.chunk.js.map",
     "runtime~main.js": "/untangle-test/static/js/runtime~main.d7798a68.js",
@@ -8,9 +8,9 @@
     "static/js/2.0d138e08.chunk.js": "/untangle-test/static/js/2.0d138e08.chunk.js",
     "static/js/2.0d138e08.chunk.js.map": "/untangle-test/static/js/2.0d138e08.chunk.js.map",
     "index.html": "/untangle-test/index.html",
-    "precache-manifest.639097364b7ea51283b7c6f056ca1922.js": "/untangle-test/precache-manifest.639097364b7ea51283b7c6f056ca1922.js",
+    "precache-manifest.c81cd463644958e9f9889fdbea215064.js": "/untangle-test/precache-manifest.c81cd463644958e9f9889fdbea215064.js",
     "service-worker.js": "/untangle-test/service-worker.js",
-    "static/css/main.2bae92ce.chunk.css.map": "/untangle-test/static/css/main.2bae92ce.chunk.css.map",
+    "static/css/main.d69f7f24.chunk.css.map": "/untangle-test/static/css/main.d69f7f24.chunk.css.map",
     "static/media/banner.jpg": "/untangle-test/static/media/banner.05dacadb.jpg"
   }
 }
