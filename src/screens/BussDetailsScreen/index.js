@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import HeadingOne from "../components/texts/HeadingOne"
+import HeadingOne from "../../components/texts/HeadingOne"
 
 class BussDetailsScreen extends Component {
     BussDetailstitle = {
