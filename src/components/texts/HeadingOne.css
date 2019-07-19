@@ -1,9 +1,8 @@
 .HeadingOne h1 {
-  font-weight: 800;
-  font-size: 15px;
-  color: black;
+  font-weight: 1000;
+  font-size: 30px;
+  color: #000000;
   letter-spacing: 0;
-  text-align: center;
 }
 
 @media (min-width: 1024px) {

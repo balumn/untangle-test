@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import HeadingOne from "../../components/texts/HeadingOne"
+import HeadingTwo from '../../components/texts/HeadingTwo';
 
 class BussDetailsScreen extends Component {
     BussDetailstitle = {
@@ -9,7 +9,7 @@ class BussDetailsScreen extends Component {
     render(){
         return(
             <React.Fragment>
-                <HeadingOne data={this.BussDetailstitle} />
+                <HeadingTwo data={this.BussDetailstitle} />
             </React.Fragment>
         );
     }

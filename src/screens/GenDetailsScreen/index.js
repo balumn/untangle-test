@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import HeadingOne from "../../components/texts/HeadingOne"
+import HeadingTwo from '../../components/texts/HeadingTwo';
 
 class GenDetailsScreen extends Component {
     GenDetailstitle = {
@@ -9,7 +9,7 @@ class GenDetailsScreen extends Component {
     render(){
         return(
             <React.Fragment>
-                <HeadingOne data={this.GenDetailstitle} />
+                <HeadingTwo data={this.GenDetailstitle} />
                 <p>GenDetailsScreen</p>
             </React.Fragment>
         );
