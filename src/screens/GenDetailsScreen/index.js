@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import HeadingTwo from '../../components/texts/HeadingTwo';
-import "./styles.css"
+import "../styles.css"
 
 class GenDetailsScreen extends Component {
     GenDetailstitle = {
@@ -11,8 +11,8 @@ class GenDetailsScreen extends Component {
         return(
             <React.Fragment>
                 <HeadingTwo data={this.GenDetailstitle} />
-                <div className="form-outer">
                 <form method="post">
+                <div className="form-outer">
                     <div className="form">
                         <label className="key">
                         <b> Source Reference* </b>
@@ -43,13 +43,7 @@ class GenDetailsScreen extends Component {
                         <br />
 
                         <label className="key">
-                        <b>Street/House No.</b>
-                        </label>
-                        <input className="iinput" type="text" name="name" placeholder="Please enter the Street/House Number" required/>
-                        <br />
-
-                        <label className="key">
-                        <b> Phone Number</b>
+                        <b>Vendor Phone Number</b>
                         </label>
                         <input className="iinput" type="phone" name="Phonenum" placeholder="+91-1234567890" required/>
                         <br />
@@ -61,21 +55,37 @@ class GenDetailsScreen extends Component {
                         <br />
 
                         <label className="key">
-                        <b>Address Line 1</b>
+                        <b>Website</b>
                         </label>
-                        <input className="iinput" type="text" name="name" placeholder="Address Line 1" required/>
+                        <br />
+                        <input className="iinput" type="text" name="name" placeholder="Please enter your website address" required/>
                         <br />
 
                         <label className="key">
-                        <b>Address Line 2</b>
+                        <b>Vendor Fax</b>
                         </label>
-                        <input className="iinput" type="text" name="name" placeholder="Address Line 2" required/>
+                        <input className="iinput" type="integers" name="name" placeholder="Vendor Fax" />
                         <br />
 
                         <label className="key">
-                        <b>Address Line 3</b>
+                        <b>Contact Person Name</b>
                         </label>
-                        <input className="iinput" type="text" name="name" placeholder="Address Line 3" required/>
+                        <input className="iinput" type="text" name="name" placeholder="Contact person Name" required/>
+                        <br />
+                        <label className="key">
+                        <b>Contact Person Phone</b>
+                        </label>
+                        <input className="iinput" type="phone" name="name" placeholder="Contact person phone number" required/>
+                        <br />
+                        <label className="key">
+                        <b>Contact Person Designation</b>
+                        </label>
+                        <input className="iinput" type="text" name="name" placeholder="Contact person Designation" required/>
+                        <br />
+                        <label className="key">
+                        <b>Contact Person Email</b>
+                        </label>
+                        <input className="iinput" type="email" name="name" placeholder="Contact person Email" required/>
                         <br />
                     </div>
 
@@ -377,10 +387,29 @@ class GenDetailsScreen extends Component {
                             </label>
                             <input className="iinput" type="phone" name="Phonenum1" placeholder="1234-1234567" required/>
                             <br />
+
+                            <label className="key">
+                            <b>Address Line 1</b>
+                            </label>
+                            <input className="iinput" type="text" name="name" placeholder="Address Line 1" required/>
+                            <br />
+
+                            <label className="key">
+                            <b>Address Line 2</b>
+                            </label>
+                            <input className="iinput" type="text" name="name" placeholder="Address Line 2" required/>
+                            <br />
+
+                            <label className="key">
+                            <b>Address Line 3</b>
+                            </label>
+                            <input className="iinput" type="text" name="name" placeholder="Address Line 3" required/>
+                            <br />
+
                     </div>
-                </form>
                 </div>
-                <input className="button" type="Submit" name="Submit" value="Submit" />
+                <input className="subButton" type="Submit" name="Submit" value="Submit" />
+                </form>
             </React.Fragment>
         );
     }

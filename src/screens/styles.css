@@ -52,3 +52,10 @@
     font-family: "Quattrocento Sans", sans-serif;
     min-width: 40% !important;
 }
+
+.subButton{
+    text-align: center;
+    border: 1px solid #e5e7e9;
+
+    margin: 20px auto;
+}

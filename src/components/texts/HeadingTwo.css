@@ -1,9 +1,9 @@
 .HeadingTwo h2 {
-  font-weight: 800;
-  font-size: 20px;
+  font-weight: 400;
+  font-size: 18px;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: #880d1e;
+  color: #ED2912;
   /* text-align: left; */
 }
 
