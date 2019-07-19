@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "balumn.github.io/untangle-test/static/css/main.aad910b6.chunk.css",
-    "main.js": "balumn.github.io/untangle-test/static/js/main.1a9d246d.chunk.js",
-    "main.js.map": "balumn.github.io/untangle-test/static/js/main.1a9d246d.chunk.js.map",
-    "runtime~main.js": "balumn.github.io/untangle-test/static/js/runtime~main.1cc08883.js",
-    "runtime~main.js.map": "balumn.github.io/untangle-test/static/js/runtime~main.1cc08883.js.map",
-    "static/js/2.91671bbf.chunk.js": "balumn.github.io/untangle-test/static/js/2.91671bbf.chunk.js",
-    "static/js/2.91671bbf.chunk.js.map": "balumn.github.io/untangle-test/static/js/2.91671bbf.chunk.js.map",
-    "index.html": "balumn.github.io/untangle-test/index.html",
-    "precache-manifest.ff0092a3d448b6ab1362723b7f7db0c1.js": "balumn.github.io/untangle-test/precache-manifest.ff0092a3d448b6ab1362723b7f7db0c1.js",
-    "service-worker.js": "balumn.github.io/untangle-test/service-worker.js",
-    "static/css/main.aad910b6.chunk.css.map": "balumn.github.io/untangle-test/static/css/main.aad910b6.chunk.css.map",
-    "static/media/banner.jpg": "balumn.github.io/untangle-test/static/media/banner.05dacadb.jpg"
+    "main.css": "/untangle-test/static/css/main.aad910b6.chunk.css",
+    "main.js": "/untangle-test/static/js/main.8558b9b9.chunk.js",
+    "main.js.map": "/untangle-test/static/js/main.8558b9b9.chunk.js.map",
+    "runtime~main.js": "/untangle-test/static/js/runtime~main.d7798a68.js",
+    "runtime~main.js.map": "/untangle-test/static/js/runtime~main.d7798a68.js.map",
+    "static/js/2.91671bbf.chunk.js": "/untangle-test/static/js/2.91671bbf.chunk.js",
+    "static/js/2.91671bbf.chunk.js.map": "/untangle-test/static/js/2.91671bbf.chunk.js.map",
+    "index.html": "/untangle-test/index.html",
+    "precache-manifest.038db31247c67496713f3dd913e1f32e.js": "/untangle-test/precache-manifest.038db31247c67496713f3dd913e1f32e.js",
+    "service-worker.js": "/untangle-test/service-worker.js",
+    "static/css/main.aad910b6.chunk.css.map": "/untangle-test/static/css/main.aad910b6.chunk.css.map",
+    "static/media/banner.jpg": "/untangle-test/static/media/banner.05dacadb.jpg"
   }
 }
