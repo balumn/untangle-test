@@ -56,6 +56,7 @@
 .subButton{
     text-align: center;
     border: 1px solid #e5e7e9;
-
-    margin: 20px auto;
+    height: 40px;
+    width: 70px;
+    margin: 30px 45%;
 }
