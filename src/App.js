@@ -1,7 +1,7 @@
 import React from 'react';
 import Header from './components/Header';
 import { HashRouter as Router, Route, Switch } from "react-router-dom";
-import { GenDetailsScreen, BussDetailsScreen, HomeScreen } from "./screens"
+import { HomeScreen } from "./screens"
 
 class App extends React.Component{
   render(){
@@ -10,8 +10,6 @@ class App extends React.Component{
         <React.Fragment>
           <Header />
           <Switch>
-            <Route exact path="/general" component={GenDetailsScreen} />
-            <Route exact path="/business" component={BussDetailsScreen} />
             <Route exact path="/" component={HomeScreen} />
           </Switch>
         </React.Fragment>
