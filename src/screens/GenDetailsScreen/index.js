@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import HeadingTwo from '../../components/texts/HeadingTwo';
 import "../styles.css"
 
+
 class GenDetailsScreen extends Component {
     GenDetailstitle = {
         instanceID: "GenDetailstitle",
