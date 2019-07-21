@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/untangle-test/static/css/main.16dec13a.chunk.css",
-    "main.js": "/untangle-test/static/js/main.4afb8b6a.chunk.js",
-    "main.js.map": "/untangle-test/static/js/main.4afb8b6a.chunk.js.map",
+    "main.css": "/untangle-test/static/css/main.1f4ed8ac.chunk.css",
+    "main.js": "/untangle-test/static/js/main.197b3dfd.chunk.js",
+    "main.js.map": "/untangle-test/static/js/main.197b3dfd.chunk.js.map",
     "runtime~main.js": "/untangle-test/static/js/runtime~main.d7798a68.js",
     "runtime~main.js.map": "/untangle-test/static/js/runtime~main.d7798a68.js.map",
-    "static/js/2.b3b0b608.chunk.js": "/untangle-test/static/js/2.b3b0b608.chunk.js",
-    "static/js/2.b3b0b608.chunk.js.map": "/untangle-test/static/js/2.b3b0b608.chunk.js.map",
+    "static/js/2.4a8b340e.chunk.js": "/untangle-test/static/js/2.4a8b340e.chunk.js",
+    "static/js/2.4a8b340e.chunk.js.map": "/untangle-test/static/js/2.4a8b340e.chunk.js.map",
     "index.html": "/untangle-test/index.html",
-    "precache-manifest.2cea677c57b614d68d92d9daf22ae2fc.js": "/untangle-test/precache-manifest.2cea677c57b614d68d92d9daf22ae2fc.js",
+    "precache-manifest.9fd51bfbedec7de0133cd2bf410af3a8.js": "/untangle-test/precache-manifest.9fd51bfbedec7de0133cd2bf410af3a8.js",
     "service-worker.js": "/untangle-test/service-worker.js",
-    "static/css/main.16dec13a.chunk.css.map": "/untangle-test/static/css/main.16dec13a.chunk.css.map",
-    "static/media/banner.jpg": "/untangle-test/static/media/banner.05dacadb.jpg"
+    "static/css/main.1f4ed8ac.chunk.css.map": "/untangle-test/static/css/main.1f4ed8ac.chunk.css.map",
+    "static/media/logo.svg": "/untangle-test/static/media/logo.f71b3728.svg"
   }
 }
