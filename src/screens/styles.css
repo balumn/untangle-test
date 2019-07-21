@@ -1,4 +1,7 @@
 
+.wrapper{
+    margin-bottom: 20px;
+}
 .form{
     margin-left: 3%;
     font-size: 18px;
@@ -10,7 +13,6 @@
 }
 
 .form-r{
-    grid-area: formr;
     margin-left: 3%;
     font-size: 18px;
     width: 45%;
@@ -53,14 +55,31 @@
     min-width: 40% !important;
 }
 
+.fattach {
+    margin-left: 20px;
+    margin-top: 10px;
+    align-content: left;
+    margin-bottom: 20px;
+    background-color: #e5e7e9;
+    border-radius: 7px;
+    height: 50px;
+    border: 1px solid #e5e7e9;
+    font-family: "Heebo", sans-serif;
+    font-family: "PT Sans Narrow", sans-serif;
+    font-family: "Quattrocento Sans", sans-serif;
+    min-width: 20% !important;
+}
 .subButton{
     text-align: center;
-    border: 1px solid #e5e7e9;
+    border: 1px solid #b80000;
     height: 40px;
     width: 70px;
     margin: 30px 45%;
+    cursor: pointer;
 }
 
 .radioButton {
     margin-left: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
