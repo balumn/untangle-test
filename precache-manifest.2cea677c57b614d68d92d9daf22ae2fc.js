@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3ee917f0f09d1d047dae6b0bcaf57f37",
+    "revision": "c6f59b4e7ce11c18c4bc777fea3aa269",
     "url": "/untangle-test/index.html"
   },
   {
-    "revision": "db1da6267d5a15a94f7e",
-    "url": "/untangle-test/static/css/main.d69f7f24.chunk.css"
+    "revision": "76ddad231399fc492adf",
+    "url": "/untangle-test/static/css/main.16dec13a.chunk.css"
   },
   {
-    "revision": "eabbf6ac9e9a15dc70e2",
-    "url": "/untangle-test/static/js/2.0d138e08.chunk.js"
+    "revision": "579c7f5d8b3d1fb75142",
+    "url": "/untangle-test/static/js/2.b3b0b608.chunk.js"
   },
   {
-    "revision": "db1da6267d5a15a94f7e",
-    "url": "/untangle-test/static/js/main.d602a1ff.chunk.js"
+    "revision": "76ddad231399fc492adf",
+    "url": "/untangle-test/static/js/main.4afb8b6a.chunk.js"
   },
   {
     "revision": "cb91d362d1dd6eadfaa0",
