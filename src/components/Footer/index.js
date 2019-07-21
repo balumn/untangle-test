@@ -12,10 +12,7 @@ class Footer extends Component {
                 A unit of Untangle Pro-Strategy Services Pvt Ltd.
                </div>
                <div className="element">
-                	&copy;
-               </div>
-               <div className="element">
-                	&copy;
+                <img src="https://untanglestrategy.com/assets/images/logo-footer.svg" alt="banner" width="150px" />
                </div>
             </div>
         );

@@ -2,6 +2,9 @@
     text-align: center;
     background-color: #F1F1F1;
     margin-top: 10px;
+    padding-top: 10px;
+    color: #A5A5A5;
+    font-size: 25px;
 }
 .element{
     margin: 15px auto;
