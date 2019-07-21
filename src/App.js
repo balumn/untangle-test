@@ -2,6 +2,7 @@ import React from 'react';
 import Header from './components/Header';
 import { HashRouter as Router, Route, Switch } from "react-router-dom";
 import { HomeScreen } from "./screens"
+import Footer from './components/Footer';
 
 class App extends React.Component{
   render(){
@@ -12,6 +13,7 @@ class App extends React.Component{
           <Switch>
             <Route exact path="/" component={HomeScreen} />
           </Switch>
+          <Footer />
         </React.Fragment>
       </Router>
     );

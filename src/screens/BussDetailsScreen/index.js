@@ -12,7 +12,7 @@ class BussDetailsScreen extends Component {
             <React.Fragment>
                 <HeadingTwo data={this.BussDetailstitle} />
                 <form method="post">
-                    <div className="wrapper">
+                    <div className="wrapper"> {/* wrapper of 2 divs */}
                         <div className="form">
                             <label> Business with ESSAR Group in last five years : *</label>
                             <input className="radioButton" type="radio" name="bussPartner" value="Yes" />Yes &nbsp;
@@ -66,12 +66,6 @@ class BussDetailsScreen extends Component {
                                 <option value="EPC">EPC</option>
                                 <option value="Supply & Service Provider">Supply & Service Provider</option>
                             </select>
-                            {/* <input className="radioButton" type="radio" name="typeOfBusiness" value="Manufacturer" checked/><b>Manufacturer &nbsp;</b>
-                            <input className="radioButton" type="radio" name="agentDealer" value="Agent/Dealer" /><b>Agent/Dealer &nbsp;</b>
-                            <input className="radioButton" type="radio" name="stockiest" value="Stockiest" /><b>Stockiest &nbsp;</b>
-                            <input className="radioButton" type="radio" name="ServiceProvider" value="Service Provider" /><b>Service Provider &nbsp;</b>
-                            <input className="radioButton" type="radio" name="epc" value="EPC" /><b>EPC &nbsp;</b>
-                            <input className="radioButton" type="radio" name="supplyServiceProvider" value="Supply & Service Provider" /><b>Supply & Service Provider &nbsp;</b> */}
                             <br /><br />
 
 
@@ -198,8 +192,6 @@ class BussDetailsScreen extends Component {
                             <textarea className="iinput" style={{ height: 70, paddingTop: 20 }} />
                             <br /><br />
                             <br /><br />
-
-
                         </div>
                     </div>
                     <label  style={{ marginLeft: 50 }}>Attach File (Product Catalogue / Certificate etc.) : </label>
